@@ -35,9 +35,9 @@ export const Nav = () => {
               </MenuButton>
               <MenuList>
 
-              {isAuth.auth === true ? <><Text textAlign={"center"}  as='b' fontSize={"xl"} color='black'>{isAuth.name}</Text>
+              {isAuth.auth === true ? <><Text marginLeft={71}  as='b' fontSize={"xl"} color='black'>{isAuth.name}</Text>
               <br></br>
-              <Button color="white" background="red" onClick={handleLogout}>Logout</Button></> :
+              <Button color="white" background="red" marginLeft={59} onClick={handleLogout}>Logout</Button></> :
                         <><MenuItem>
                         {" "}
                         <NavLink to="/signUp"><Text color="black">Signup</Text></NavLink>

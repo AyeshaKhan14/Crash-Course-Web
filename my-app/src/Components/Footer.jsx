@@ -19,9 +19,9 @@ const Footer = () => {
           />
         </div>
         <div style={{ width: "100%", maxWidth: "200px", marginBottom: "20px" }}>
-          <h4>About warikoo</h4>
+          <h4>Crash Course</h4>
           <p>
-            Ankur Warikoo is an entrepreneur, teacher, content creator, public
+          Crash Course Company is an entrepreneur, teacher, content creator, public
             speaker and mentor, based out of India.
           </p>
         </div>

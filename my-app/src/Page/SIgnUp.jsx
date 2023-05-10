@@ -28,6 +28,7 @@ const SIgnUp = () => {
               isClosable: true,
               position: "top",
           })
+          localStorage.setItem("Login",JSON.stringify(res.data))
           setFormData({ name: "", email: "", password: "" })
           navigate("/login")
       })
