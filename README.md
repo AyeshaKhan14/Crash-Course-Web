@@ -1,5 +1,5 @@
 # Crash-Course-Web
-<h3>This is a Crash Course website. Where user can purchase Online-course.</h3>
+<h3>This is a Crash Course website. Where user can watch Online-course.</h3>
  <h3>Fron-end: HTML | CSS | javascript | ReactJS | React-Router| axios | Chakra-UI</h3>
   
 <img src="https://github.com/AyeshaKhan14/Crash-Course-Web/assets/101391413/f585197d-7a1e-498a-939e-76b18c46e6c2"/> 
